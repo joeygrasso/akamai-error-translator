@@ -1,0 +1,6 @@
+# github.com/comcast/go-edgegrid v0.0.1
+## explicit
+github.com/comcast/go-edgegrid/edgegrid
+# github.com/satori/go.uuid v1.2.0
+## explicit
+github.com/satori/go.uuid
